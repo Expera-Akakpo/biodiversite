@@ -6,3 +6,5 @@ Biodiversité ou Observateurs ?
 Le pic 2020 (+107 %) est un boom d’effort humain, pas écologique. 
 
 Dashboard Streamlit : cartes, LOESS, corrélations, filtres. Concours DataGrandEst 2025.
+
+Demo:  https://biodiversiteacue.streamlit.app/
